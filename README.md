@@ -1,2 +1,2 @@
 # test
-prueba de boot
+prueba de bot
